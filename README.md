@@ -6,8 +6,8 @@ Just homework
 Usage
 -----
 
-、、、
+```
 $ node crawler.js
-、、、
+```
 
 That's all!
